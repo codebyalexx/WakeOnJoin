@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"dotenv": "^16.4.7",
+		"express": "^4.21.2",
+		"minecraft-data": "3.84.1",
+		"minecraft-data.git": "github:PrismarineJS/minecraft-data",
+		"minecraft-protocol": "github:PrismarineJS/node-minecraft-protocol",
+		"net": "^1.0.2",
+		"prismarine-nbt": "github:PrismarineJS/prismarine-nbt",
+		"wake_on_lan": "^1.0.0"
+	}
+}
